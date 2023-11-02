@@ -1,0 +1,14 @@
+
+#Configure here general information about the environment, such as SonarQube server
+#No information about specific project should appear here
+#------Default SonarQube server
+#sonar.host.url=http://localhost:9000
+
+#------Default source code encoding
+#sonar.sourceEncoding=UTF-8
+
+sonar.projectKey=EXP10_AEC
+sonar.projectName=EXP10_AEC
+sonar.projectVersion=1.0
+#sonar.projectBaseDir=C:\SFIT
+sonar.sources=C:\SONARSCANNER\sonar-scanner-5.0.1.3006-windows\conf
